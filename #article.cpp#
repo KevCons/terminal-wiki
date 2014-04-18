@@ -1,0 +1,14 @@
+
+#include "article.h"
+Article::Article()
+{
+  title = "";
+  body = "";
+}
+
+#include "article.h"
+Article::Article()
+{
+	title = "";
+	body = "";
+}
